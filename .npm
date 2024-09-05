@@ -1,4 +1,0 @@
-mkdir dynamiscript
-cd dynamiscript
-npm init
-npm install dynamiscript
