@@ -1,3 +1,18 @@
-npm init
-mkdir dynamiscript
-cd dynamiscript
+{
+  "name": "dynamiscript",
+  "version": "1.0.0",
+  "description": "A powerful library for creating and customizing balloons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "balloon",
+    "library",
+    "ui",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
